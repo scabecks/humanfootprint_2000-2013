@@ -1,7 +1,7 @@
-## humanfootprint_2000-2013
+## Human Footprint 2000-2013
 Data and code for HFP updates.
 
-Human Footprint Pubications:
+## Human Footprint Pubications:
 
 Brooke Williams's coming paper
 
