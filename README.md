@@ -1,7 +1,7 @@
 ## Human Footprint 2000-2013
 Data and code for HFP updates.
 
-## Human Footprint Pubications:
+## Human Footprint Publications:
 
 Williams, B.A, Venter, O., Allan, J.R., Atkinson, S, Rehbein, J., Ward, M.S, Di Marco, M., Grantham, H., Ervin, J., Goetz, S., Hansen, A.J., Hansen, M.C., Jantz, P., Pillay, R., Rodríguez-Buriticá, S., Supples, C., Virnig, A.L.S., Watson, J.E.M. In prep. Change in terrestrial human footprint drives continued loss of intact ecosystems. 
 
